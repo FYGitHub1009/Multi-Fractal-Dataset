@@ -13,11 +13,11 @@ https://signate.jp/competitions/1073
   Quality Report
 * demo.ipynb  
   簡易マニュアル  
-  Simple Mannual
+  Simple Manual
 
 ## Acknowledgment
 本解法は以下の文献を参考にしました。  
-This solution was basen on the following research paper:  
+This solution was inspired by the following research paper:  
 Connor Anderson, Ryan Farrell, "Improving Fractal Pre-training", 
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp.1300-1309  
 https://catalys1.github.io/fractal-pretraining/
