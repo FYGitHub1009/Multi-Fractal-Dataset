@@ -22,6 +22,6 @@ Connor Anderson, Ryan Farrell, "Improving Fractal Pre-training",
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp.1300-1309  
 https://catalys1.github.io/fractal-pretraining/
 
-## Lisence
+## License
 このソースコードはMITライセンスです。  
 This source code is licensed under the MIT License.
